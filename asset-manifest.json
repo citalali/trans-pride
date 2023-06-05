@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/trans-pride/static/css/main.e23474ca.css",
-    "main.js": "/trans-pride/static/js/main.dcf14c08.js",
+    "main.js": "/trans-pride/static/js/main.1a2003d6.js",
     "static/media/illustrations.jpg": "/trans-pride/static/media/illustrations.3a0e1169150450e6f553.jpg",
     "index.html": "/trans-pride/index.html",
     "main.e23474ca.css.map": "/trans-pride/static/css/main.e23474ca.css.map",
-    "main.dcf14c08.js.map": "/trans-pride/static/js/main.dcf14c08.js.map"
+    "main.1a2003d6.js.map": "/trans-pride/static/js/main.1a2003d6.js.map"
   },
   "entrypoints": [
     "static/css/main.e23474ca.css",
-    "static/js/main.dcf14c08.js"
+    "static/js/main.1a2003d6.js"
   ]
 }
